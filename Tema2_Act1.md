@@ -5,7 +5,7 @@
 - Cambiar el tamaño de los párrafos.
 - Corregir la jerarquia de encabezados.
 - Crear una lista con viñetas para facilitar la lectura y comprensión.
-- Cambiar el enlace "pinche aquí" se ha cambiado para que sea más descriptivo.
+- Cambiar el enlace "pinche aquí" para que sea más descriptivo.
 - Eliminar las mayúsculas innecesarias para mejorar la legibilidad del texto.
 
 ## Ejercicio sobre usabilidad en formularios.
