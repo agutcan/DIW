@@ -19,7 +19,7 @@
 
 ## Ejercicio sobre usabilidad en imágenes
 - Optimizar el tamaño de la imagen.
-- Añadir etiqueta `alt` descriptica.
+- Añadir etiqueta `alt` descriptiva.
 - Mejorar el contraste entre el texto y la imagen.
 
 ## Ejercicio sobre usabilidad en el espaciado de los elementos
