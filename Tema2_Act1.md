@@ -25,4 +25,4 @@
 ## Ejercicio sobre usabilidad en el espaciado de los elementos
 - Mejorar la jerarquía visual añadiendo margen superior a los títulos, margen a los parrafos y limitar las lineas de texto. 
 - Añadir espacio entre los enlaces de la barra de navegación y si es necesario cambiar el color y poner un efecto hover. 
-- Aumentar el tamaño de la tabla, el espacio entre las celdas y si es necesario poner cambiar el color de las celdas importantes y añadir un efecto hover.
+- Aumentar el tamaño de la tabla, el espacio entre las celdas y si es necesario cambiar el color de las celdas importantes y añadir un efecto hover.
